@@ -1,2 +1,2 @@
 # Online-Music-Store
-Creadted Online Music Store using html,css,javascript and php 
+Created Online Music Store using html,css,javascript.php and database from mysql.
